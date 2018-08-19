@@ -24,7 +24,7 @@ The R script completes the following actions:
   
 CodeBook.md
 
-  - a code book that describes the variables, data, and transformations executed to create tidy data
+  - a code book that describes the variables and data
   
 TidyData
    
